@@ -1,0 +1,4 @@
+
+beautifulsoup4==4.9.3
+requests==2.25.1
+googlesearch-python==2020.0.2
