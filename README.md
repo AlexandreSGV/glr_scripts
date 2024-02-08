@@ -24,19 +24,19 @@ This repository hosts a collection of Python scripts designed to automate the se
 1. Clone the repository:
   ```bash
    git clone https://github.com/AlexandreSGV/glr_scripts.git
-  ´´´
+  ```
 2. Install the required Python packages:
   ```bash
    pip install -r requirements.txt
-  ´´´
+  ```
 
 ### Usage
 
 1. Edit `search_strings` and `search_websites` in `main.py` to define your search queries and target websites.
 2. Run the script:
-```bash
+  ```bash
    python main.py
-  ´´´
+  ```
 
 3. Check `search_results.csv` for your results.
 
